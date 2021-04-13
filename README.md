@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=faffcc&height=150&section=header&text=Gong.Phil.Sang&fontSize=70&animation=scaleIn)
-
 ## Portfolio
 <a href="https://www.notion.so/f2febd84e3be40f5a00374807ad7eba2" target="_blank"> 📒Come here</a>
 
